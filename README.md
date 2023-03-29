@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshatsharma1290
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking for front-end project
 - 📫 Reach me at webdevakshat@gmail.com
 
