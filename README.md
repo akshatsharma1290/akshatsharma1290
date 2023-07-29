@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning
 **React Ecosystem**
 
-- 👯 I’m looking to build an
-  **My version Of Formik**
+- 👯 I’m looking to collaborate on
+  **Resume Builder**
 
 - I am based in **India, Delhi**
 
