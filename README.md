@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate FrontEnd Developer From India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a Resume Builder Web App.<br>👯 I’m looking to collaborate on Front-End Project.<br>🤝 I’m looking for help with TypeScript<br>🌱 I’m currently learning React Eco-System<br>💬 Ask me anything at webdevakshat@gmail.com<br>
+🔭 I’m currently working on a Resume Builder Web App.<br>👯 I’m looking to collaborate on Front-End Project.<br>🤝 I’m looking for help with TypeScript<br>🌱 I’m currently learning React Eco-System & C# <br>💬 Ask me anything at webdevakshat@gmail.com<br>
 
 
 ## 🌐 Socials:
